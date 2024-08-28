@@ -208,3 +208,15 @@ main{
 .ocultar{
     display: none;
 }
+
+footer{
+    top: 1000px;
+    position: relative;
+    color: var(--light-blue-300);
+    background-color: var(--dark-blue-500);
+    padding: 10px;
+    text-align: center;
+    font-family: var(--funte-1);
+    font-size: 1.5rem;
+    font-weight: 400;
+}
